@@ -16,6 +16,8 @@ Aimed to present javascript skill.
 
 ---
 
-## Licence and copyright
+## License and copyright
 
 © Kate A Rider
+
+Licensed under [MIT License](LICENSE)
