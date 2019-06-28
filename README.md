@@ -20,4 +20,4 @@ Aimed to present javascript skill.
 
 © Kate A Rider
 
-Licensed under [MIT License](LICENSE)
+Licensed under [MIT License](LICENSE.md)
